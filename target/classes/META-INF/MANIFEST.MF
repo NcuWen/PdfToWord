@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: com._21cn.bigdata.pdf_to_word.Application
-
